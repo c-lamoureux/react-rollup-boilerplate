@@ -100,5 +100,10 @@
     "vite-plugin-svgr": "^3.2.0",
     "vitest": "^0.34.6"
   },
-  "packageManager": "yarn@4.0.1"
+  "packageManager": "yarn@4.0.1",
+  "dependencies": {
+    "@adobe/react-spectrum-charts": "^1.0.1",
+    "vega": "^5.27.0",
+    "vega-lite": "^5.16.3"
+  }
 }
